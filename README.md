@@ -14,7 +14,7 @@ npx @react-native-community/cli init TemplateReactNative72 --version 0.72 --pack
 | ---------- | -------- | ------------------------------------------ |
 | Java       | 17       | Required for Android                        |
 | Node       | 22       | Required for React Native                   |
-| Gradle     | 7.5.1    | See `android/gradle/wrapper/gradle-wrapper.properties` |
+| Gradle     | 8.0.1    | See `android/gradle/wrapper/gradle-wrapper.properties` |
 | Ruby       | 3.2.2    | Used by CocoaPods scripts                   |
 | macOS      | 26.3     | Development host                            |
 | CocoaPods  | 1.16.2   | iOS dependency manager                      |
